@@ -41,9 +41,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/JoaoL0pez/GoogleGlassWebSite)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/JoaoL0pez/AudioBook_DomCasmurro)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/JoaoL0pez/Udemy_WebDevelopment)
+- [HTML | CSS](https://github.com/JoaoL0pez/GoogleGlassWebSite)
+- [Javascript](https://github.com/JoaoL0pez/AudioBook_DomCasmurro)
+- [Web Fullstack Development](https://github.com/JoaoL0pez/Udemy_WebDevelopment)
 
 <details>
   <summary>🔥 Skills & Technologies</summary>
