@@ -27,7 +27,6 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-@@ -31,24 +22,29 @@
   - ⚡ Amo estudar, tenho uma boa comunicação, facilidade em adaptações, senso de urgência e proativo. Gosto de trabalhar em equipe e tenho bons relacionamentos interpessoais.  ☜(ﾟヮﾟ☜)
 </details>
 
