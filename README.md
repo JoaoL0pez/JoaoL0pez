@@ -17,10 +17,10 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Olá 👋, Sou o João Lopes, um estudante de Analise e Desenvolvimento de Sistemas. Seja bem vindo ao meu perfil! ╰(*°▽°*)╯
 
 @@ -23,6 +13,7 @@
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou procurando minha primeira oportunidade de emprego na área de programação. Almejo trabalhar na área de Front-end e Back-end.
 </p>
 
 <!-- Dropdown -->
@@ -28,26 +28,23 @@
   <summary>👨‍💻 More about me</summary>
 
 @@ -31,24 +22,29 @@
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Amo estudar, tenho uma boa comunicação, facilidade em adaptações, senso de urgência e proativo. Gosto de trabalhar em equipe e tenho bons relacionamentos interpessoais.  ☜(ﾟヮﾟ☜)
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zhyedb2k4o82db9exriofv38r&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_jvlops/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ol0pes/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Python - Exploratory data analysis](https://github.com/JoaoL0pez/GoogleGlassWebSite)
+- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/JoaoL0pez/AudioBook_DomCasmurro)
+- [SQL - Querying and analyzing data with AWS Athena](https://github.com/JoaoL0pez/Udemy_WebDevelopment)
 
 <details>
   <summary>🔥 Skills & Technologies</summary>
