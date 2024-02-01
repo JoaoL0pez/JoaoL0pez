@@ -30,7 +30,7 @@
   - ⚡ Amo estudar, tenho uma boa comunicação, facilidade em adaptações, senso de urgência e proativo. Gosto de trabalhar em equipe e tenho bons relacionamentos interpessoais.  ☜(ﾟヮﾟ☜)
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zhyedb2k4o82db9exriofv38r&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zhyedb2k4o82db9exriofv38r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=17d957&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_jvlops/)
