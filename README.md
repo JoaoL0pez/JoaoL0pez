@@ -45,8 +45,6 @@
 - [Javascript](https://github.com/JoaoL0pez/AudioBook_DomCasmurro)
 - [Web Fullstack Development](https://github.com/JoaoL0pez/Udemy_WebDevelopment)
 
-<details>
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
